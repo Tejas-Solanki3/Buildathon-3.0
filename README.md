@@ -1,0 +1,1 @@
+Annadata Kisan Assistance” is a tool that enables farmers to analyze soil quality through a photo, detecting factors like composition, and nutrient deficiencies not detectable by touch. It provides data-driven insights to help optimize crop health and improve yields.
